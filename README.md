@@ -26,7 +26,7 @@ Analyze the data and generate insights that could help Netflix ijn deciding whic
 ## 2. PREPARE
 
 ## Data Storage:
-The public dataset is completely available on the google drive platform where it stores and consolidates all available datasets for analysis. The specific individual datasets at hand can be obtained at this link below: https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/000/940/original/netflix.csv
+The public dataset is completely available on the google drive platform where it stores and consolidates all available datasets for analysis. The specific individual datasets at hand can be obtained at this link below: <a href = "https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/000/940/original/netflix.csv"> Click here <a/>
 
 ## 3. PROCESS
 
